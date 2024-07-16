@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jJ/KJHh+ypE=",
+  "dgSpecHash": "yko8hzzF2ZU=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoDotNet\\ExemploFundamentos\\ExemploFundamentos.csproj",
+  "projectFilePath": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoDotNet\\Mod01-Fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
     "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
