@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoNovo\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoDotNet\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoNovo\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoDotNet\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoNovo\\ExemploFundamentos\\obj\\",
+      "outputPath": "C:\\Projetos\\DotNet-Projects\\CursoDotnet\\CursoDotNet\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
