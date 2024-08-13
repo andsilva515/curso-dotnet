@@ -2,8 +2,8 @@
 # Conteúdo Programático:
 
 * Fundamentos .NET
-* Explorando a linguagem C#
-* Bancos de Dados Relacionais e Não Relacionais com SQL Serve e MongoDB
+* Explorando a Linguagem C#
+* Bancos de Dados Relacionais e Não Relacionais com SQL Server e MongoDB
 * Integração de APIs utilizando ASP.NET com Entity Framework
 * Computação em Nuvem com Microsoft Azure
 * Testes Unitários com C#
